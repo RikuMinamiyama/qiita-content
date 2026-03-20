@@ -1,0 +1,9 @@
+# Remote
+.remote
+
+# Node
+node_modules
+pnpm-lock.yaml
+
+# Mac
+.DS_Store
