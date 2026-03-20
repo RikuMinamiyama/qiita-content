@@ -1,11 +1,11 @@
 ---
 title: 5人未満の組織で Claude を Team プランで契約する？
 tags:
-  - 'Anthropic'
-  - 'Claude'
+  - Anthropic
+  - Claude
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-20T21:18:06+09:00'
+id: a3929d312fa9041434bc
 organization_url_name: null
 slide: false
 ignorePublish: false
